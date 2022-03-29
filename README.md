@@ -10,7 +10,8 @@
 [2022-03-25](https://velog.io/@yshjft/2022%EB%85%84-3%EC%9B%94-25%EC%9D%BC-TIL)  
 
 ### Database
-[2022-03-28](https://velog.io/@yshjft/2022%EB%85%84-3%EC%9B%94-28%EC%9D%BC-TIL)
+[2022-03-28](https://velog.io/@yshjft/2022%EB%85%84-3%EC%9B%94-28%EC%9D%BC-TIL)   
+[2022-03-29](https://velog.io/@yshjft/2022%EB%85%84-3%EC%9B%94-29%EC%9D%BC-TIL)
 
 ## 특강
 
