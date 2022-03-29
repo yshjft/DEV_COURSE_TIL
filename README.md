@@ -14,7 +14,7 @@
 [2022-03-29](https://velog.io/@yshjft/2022%EB%85%84-3%EC%9B%94-29%EC%9D%BC-TIL)
 
 ## 특강
-
+[특강 정리(1)](https://velog.io/@yshjft/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%8A%B9%EA%B0%95-%EC%A0%95%EB%A6%AC)
 
 ## 회고
 [계산기 미션 회고](https://velog.io/@yshjft/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0)
