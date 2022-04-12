@@ -24,7 +24,8 @@
 [2022-04-08](https://velog.io/@yshjft/2022%EB%85%84-04%EC%9B%94-08%EC%9D%BC-TIL)
 
 ### Spring, Spring Boot(2)
-[2022-04-11](https://velog.io/@yshjft/2022%EB%85%84-4%EC%9B%94-11%EC%9D%BC-TIL)   
+[2022-04-11](https://velog.io/@yshjft/2022%EB%85%84-4%EC%9B%94-11%EC%9D%BC-TIL)      
+[2022-04-12](https://velog.io/@yshjft/2022%EB%85%84-4%EC%9B%94-12%EC%9D%BC-TIL)
 
 ## 특강
 [특강 정리(1)](https://velog.io/@yshjft/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%8A%B9%EA%B0%95-%EC%A0%95%EB%A6%AC)   
