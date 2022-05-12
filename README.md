@@ -41,6 +41,11 @@
 ### [개인]상품관리 REST API 클론 프로젝트
 [2022-04-25](https://velog.io/@yshjft/2022%EB%85%84-04%EC%9B%94-26%EC%9D%BC-TIL)
 
+### JPA
+[2022-05-09](https://velog.io/@yshjft/2022%EB%85%84-5%EC%9B%94-9%EC%9D%BC-TIL)   
+[2022-05-10](https://velog.io/@yshjft/2022%EB%85%84-5%EC%9B%94-10%EC%9D%BC-TIL)
+[2022-05-11](https://velog.io/@yshjft/2022%EB%85%84-5%EC%9B%94-11%EC%9D%BC-TIL)
+
 ## 특강
 [특강 정리(1)](https://velog.io/@yshjft/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%8A%B9%EA%B0%95-%EC%A0%95%EB%A6%AC)   
 [특강 정리(2)](https://velog.io/@yshjft/%ED%8A%B9%EA%B0%95-%EB%B0%8F-%EC%84%B8%EC%85%98-%EC%A0%95%EB%A6%AC2)
